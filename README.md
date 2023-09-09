@@ -1,3 +1,9 @@
+Developed a web application using Next.js and TypeScript that facilitates the retrieval of personal information based on user input. The primary objective of this project was to create a user-friendly interface for users to enter a name, triggering an API request to fetch and display relevant information about the individual.
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
